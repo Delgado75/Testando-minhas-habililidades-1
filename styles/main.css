@@ -1,0 +1,90 @@
+corpo {
+    cor de fundo : # 000 ;
+    largura máxima :  1440 px ;
+    preenchimento :  0  50 px ;
+  }
+  
+  p {
+    cor :  rgb ( 218 ,  192 ,  192 );
+  }
+  
+  . barra de pesquisa {
+    cor de fundo : branco antigo;
+  }
+  . search-bar__button {
+    cor de fundo : vermelho;
+    largura :  150 px ;
+    altura :  50 px ;
+  }
+  . search-bar__button--active {
+    cor de fundo :  rgb ( 207 ,  118 ,  16 );
+  }
+  . search-bar__button--active : passe o mouse {
+    cor de fundo : aqua;
+  }
+  . barra de pesquisa--desativada {
+    cor de fundo :  # 8f8b8b ;
+    cor :  rgb ( 230 ,  216 ,  216 );
+  }
+  . barra de pesquisa  p {
+    cor : verde;
+  }
+  
+  . dimensões , . conteúdo principal {
+    largura :  450 px ;
+    altura :  950 px ;
+  }
+  
+  . conteúdo principal {
+    largura :  800 px ;
+    cor de fundo :  # 000 ;
+    box-shadow :  10 px  11 px  13 px  -4 px vermelho;
+  }
+  . conteúdo principal  p {
+    box-shadow :  10 px  11 px  13 px  -4 px  rgba ( 42 ,  230 ,  13 ,  0,65 );
+  }
+  . conteúdo principal--disco {
+    text-transform : letras maiúsculas;
+    cor : branco;
+  }
+  
+  . texto-1 {
+    tamanho da fonte :  15 px ;
+  }
+  
+  . texto-2 {
+    tamanho da fonte :  30 px ;
+  }
+  
+  . texto-3 {
+    tamanho da fonte :  45 px ;
+  }
+  
+  . texto-4 {
+    tamanho da fonte :  60 px ;
+  }
+  
+  . texto-5 {
+    tamanho da fonte :  75 px ;
+  }
+  
+  . cachorro-azul {
+    cor : azul;
+  }
+  
+  . vermelho-cachorro {
+    cor : vermelho;
+  }
+  
+  . verde-cachorro {
+    cor : verde;
+  } /*# sourceMappingURL=main.css.map */
+
+
+
+@import  " ./global " ;
+@import  " ./cabeçalho " ;
+@import  " ./feed " ;
+
+{"version":3,"sources":["_global.scss","main.css","_header.scss","_feed.scss"],"names":[],"mappings":"AAAA;EACE,0BAAA;EACA,iBAAA;EACA,eAAA;ACCF;;ADEA;EACE,yBAAA;ACCF;;ACJA;EACE,8BAAA;ADOF;ACLE;EACE,qBAAA;EACA,YAAA;EACA,YAAA;ADOJ;ACLI;EACE,mCAAA;ADON;ACNM;EACE,sBAAA;ADQR;ACHE;EACE,yBApBc;EAqBd,yBApBS;ADyBb;ACFE;EACE,YA1BQ;AD8BZ;;AELA;EACE,YAAA;EACA,aAAA;AFQF;;AELA;EAEE,YAAA;EAfE,sBAdM;EAIR,mCAAA;AFkCF;AELE;EA7BA,uDAAA;AFqCF;AEJE;EA7BA,yBAAA;EACA,YAAA;AFoCF;;AEHE;EACE,eAAA;AFMJ;;AEPE;EACE,eAAA;AFUJ;;AEXE;EACE,eAAA;AFcJ;;AEfE;EACE,eAAA;AFkBJ;;AEnBE;EACE,eAAA;AFsBJ;;AEfE;EACE,WAJK;AFsBT;;AEnBE;EACE,UAJK;AF0BT;;AEvBE;EACE,YAJK;AF8BT","file":"main.css"}
+
